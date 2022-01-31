@@ -1,0 +1,93 @@
+.page {
+  background: url("../images/background2.jpg") #a745d4;
+  background-size: cover;
+}
+
+.centered {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+.main-font {
+  font-family: "Roboto";
+}
+
+.header-font {
+  color: white;
+  text-shadow: 2px 2px black;
+  text-align: center;
+}
+
+img {
+  border-radius: 50%;
+  border-style: solid;
+  border-color: white;
+  -webkit-box-shadow: 2px black;
+          box-shadow: 2px black;
+  display: inline-block !important;
+}
+
+hr {
+  width: 200px;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+header {
+  text-align: center;
+  min-height: 400px;
+  overflow: hidden;
+  position: relative;
+  padding-top: 100px;
+  padding-bottom: 140px;
+}
+
+/* skills section */
+.info {
+  background: #b595be;
+  color: #f5f5f5;
+  padding: 20px;
+}
+
+.info-reverse {
+  background: #f5f5f5;
+  color: #b595be;
+  padding: 20px;
+}
+
+.years {
+  font-size: small;
+  line-height: 50%;
+  margin-top: -12px;
+}
+
+.main {
+  font-size: large;
+}
+
+h2 {
+  margin-bottom: 20px;
+}
+
+.row .add-row {
+  margin-top: 20px;
+}
+
+.end {
+  margin-bottom: 21px;
+}
+
+a {
+  color: white;
+}
+
+.fa {
+  margin-right: 5px;
+}
+
+.end-2 {
+  margin-bottom: 31px;
+}
+/*# sourceMappingURL=styles.css.map */
